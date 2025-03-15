@@ -1,0 +1,22 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.quiz-container {
+    width: 50%;
+    max-width: 600px;
+}
+
+.quiz-box {
+    width: 100%;
+    text-align: left;
+}
+
+#options button {
+    text-align: left;
+    border: 2px solid red;
+}
+
+#feedback {
+    font-weight: bold;
+}
